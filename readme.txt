@@ -11,7 +11,7 @@ Adds a new 'On Backorder' report to the WooCommerce Stock Reports so you can qui
 
 == Description ==
 
-The 'Out of Stock' report supplied by WooCommerce can be confusing when you deal with backorders as it incluces ALL items, even those not allowing backorders.
+The 'Out of Stock' report supplied by WooCommerce can be confusing when you deal with backorders as it includes ALL items, even those not allowing backorders.
 
 WooCommerce Backorders Report gives you an easy to read table of all products that have backorders enabled and are below the limit you set of your 'Out Of Stock Threshold'. It also reads out a total number of items waiting in backorder.
 
