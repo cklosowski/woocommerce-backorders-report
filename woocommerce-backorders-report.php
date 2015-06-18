@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce - Backorder Report
+ * Plugin Name: WooCommerce - Backorders Report
  * Plugin URI:  https://filament-studios.com/downloads/woocommerce-category-fees
  * Description: Show a of backordered items in the WooCommerce Dashboard
  * Version:     1.0
